@@ -27,8 +27,6 @@ namespace Lab_2
             { "Address", new List<string>() },
             { "Age", new List<string>() },
             { "Branch", new List<string>() }
-            //{ "StartOnPosition", new List<string>() },
-            //{ "LastonPosition", new List<string>() }
         };
         private ObservableCollection<ScientificWorker> _results = new ObservableCollection<ScientificWorker>(); 
 
@@ -132,8 +130,6 @@ namespace Lab_2
                 XmlNode childNode = childNodes.Item(i);
                 AddElemToPicker(childNode);
             }
-            //Pickers.FillYearPickers("StartOnPosition", _data["StartOnPosition"]);
-            //Pickers.FillYearPickers("LastonPosition", _data["LastonPosition"]);
             ClearPickersValues();
             AddItemSourses();
 
