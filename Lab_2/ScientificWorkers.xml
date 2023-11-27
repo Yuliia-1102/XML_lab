@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ScientificWorkers>
+    <ScientificWorker>
+        <Name>Інформаційні технології в медицині</Name>
+        <AuthorName>Головченко К.Д.</AuthorName>
+        <Faculty>ФКНК</Faculty>
+        <Department>ТТП</Department>
+        <DateOfBirth>23.02.1952</DateOfBirth>
+        <AuthorPosition>Доцентка</AuthorPosition>
+        <Gender>жінка</Gender>
+        <Address>Київ, Милославська, 60</Address>
+        <Age>78</Age>
+        <Branch>Computer Science</Branch>
+    </ScientificWorker>
+    <ScientificWorker>
+        <Name>Штучний інтелект</Name>
+        <AuthorName>Гончар М.І.</AuthorName>
+        <Faculty>ІПСА</Faculty>
+        <Department>ТК</Department>
+        <DateOfBirth>13.08.1949</DateOfBirth>
+        <AuthorPosition>Професор</AuthorPosition>
+        <Gender>чоловік</Gender>
+        <Address>Київ, Шухевича, 29</Address>
+        <Age>78</Age>
+        <Branch>Artificial Intelligence</Branch>
+    </ScientificWorker>
+    <ScientificWorker>
+        <Name>Робототехніка</Name>
+        <AuthorName>Михайленко С.І.</AuthorName>
+        <Faculty>ІПСА</Faculty>
+        <Department>МІ</Department>
+        <DateOfBirth>12.05.1953</DateOfBirth>
+        <AuthorPosition>Професор</AuthorPosition>
+        <Gender>чоловік</Gender>
+        <Address>Одеса, Шевченка, 17</Address>
+        <Age>80</Age>
+        <Branch>Robotics</Branch>
+    </ScientificWorker>
+    <ScientificWorker>
+        <Name>Екологічні аспекти програмування</Name>
+        <AuthorName>Сидоренко О.М.</AuthorName>
+        <Faculty>ФІОТ</Faculty>
+        <Department>Екологічне програмування</Department>
+        <DateOfBirth>12.05.1953</DateOfBirth>
+        <AuthorPosition>Аспірантка</AuthorPosition>
+        <Gender>жінка</Gender>
+        <Address>Одеса, Шевченка, 34</Address>
+        <Age>90</Age>
+        <Branch>Environmental Programming</Branch>
+    </ScientificWorker>
+    <ScientificWorker>
+        <Name>Інтернет речей</Name>
+        <AuthorName>Михайленко С.І.</AuthorName>
+        <Faculty>ФКНК</Faculty>
+        <Department>Інформатика</Department>
+        <DateOfBirth>12.07.1949</DateOfBirth>
+        <AuthorPosition>Доцент</AuthorPosition>
+        <Gender>чоловік</Gender>
+        <Address>Київ, Перемоги, 34</Address>
+        <Age>90</Age>
+        <Branch>Artificial Intelligence</Branch>
+    </ScientificWorker>
+    <ScientificWorker>
+        <Name>Системи автоматизації виробництва</Name>
+        <AuthorName>Сидоренко О.М.</AuthorName>
+        <Faculty>ФКНК</Faculty>
+        <Department>МІ</Department>
+        <DateOfBirth>13.04.1945</DateOfBirth>
+        <AuthorPosition>Професор</AuthorPosition>
+        <Gender>жінка</Gender>
+        <Address>Київ, Політехнічна, 5</Address>
+        <Age>91</Age>
+        <Branch>Industrial Automation</Branch>
+    </ScientificWorker>
+    <ScientificWorker>
+        <Name>Безпека мереж інтернету</Name>
+        <AuthorName>Гриценко Г.Г.</AuthorName>
+        <Faculty>ФІОТ</Faculty>
+        <Department>Інформатика</Department>
+        <DateOfBirth>12.08.1948</DateOfBirth>
+        <AuthorPosition>Доцент</AuthorPosition>
+        <Gender>жінка</Gender>
+        <Address>Київ, Богомольця, 124</Address>
+        <Age>90</Age>
+        <Branch>Information Security</Branch>
+    </ScientificWorker>
+    <ScientificWorker>
+        <Name>Інформаційні системи управління</Name>
+        <AuthorName>Тимченко С.А.</AuthorName>
+        <Faculty>ФКНК</Faculty>
+        <Department>ТК</Department>
+        <DateOfBirth>14.12.1947</DateOfBirth>
+        <AuthorPosition>Професор</AuthorPosition>
+        <Gender>жінка</Gender>
+        <Address>Київ, Комарова, 2</Address>
+        <Age>91</Age>
+        <Branch>Computer Science</Branch>
+    </ScientificWorker>
+    <ScientificWorker>
+        <Name>Інтерфейси користувача</Name>
+        <AuthorName>Гончар М.І.</AuthorName>
+        <Faculty>ФКНК</Faculty>
+        <Department>ТТП</Department>
+        <DateOfBirth>12.09.1948</DateOfBirth>
+        <AuthorPosition>Професор</AuthorPosition>
+        <Gender>чоловік</Gender>
+        <Address>Київ, Комарова, 2</Address>
+        <Age>90</Age>
+        <Branch>Frontend developing</Branch>
+    </ScientificWorker>
+    <ScientificWorker>
+        <Name>Методи обробки великих даних</Name>
+        <AuthorName>Михайленко С.І.</AuthorName>
+        <Faculty>ФІОТ</Faculty>
+        <Department>Інформатика</Department>
+        <DateOfBirth>12.09.1948</DateOfBirth>
+        <AuthorPosition>Доцент</AuthorPosition>
+        <Gender>жінка</Gender>
+        <Address>Київ, Політехнічна, 51</Address>
+        <Age>88</Age>
+        <Branch>Data Science</Branch>
+    </ScientificWorker>
+</ScientificWorkers>
